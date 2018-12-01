@@ -1,1 +1,10 @@
-theme: jekyll-theme-tactile
+<!DOCTYPE html>
+<html>
+<head>
+ <link href="/normalize.css" rel="stylesheet">
+ <title>Flight</title>
+ </head>
+ <body>
+ 
+ </body>
+</html>
